@@ -2,4 +2,4 @@
 ## 안녕하세요
 ### 여러분
 #### 바이바이
-[![gh](https://raw.githubusercontent.com/sallyjun08/widyou/master/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)](https://www.youtube.com/watch?v=S3sUgTOmUIQ)
+[![gh](https://i.ytimg.com/vi/S3sUgTOmUIQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=S3sUgTOmUIQ)
